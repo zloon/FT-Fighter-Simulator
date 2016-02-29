@@ -2,4 +2,4 @@
 Full Thrust fighter simulator
 
 Results:
-http://pastebin.com/kUHDCSci
+http://pastebin.com/REumNzzH
